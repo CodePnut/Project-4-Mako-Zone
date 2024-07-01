@@ -11,6 +11,11 @@ Clicking a game card redirects to a detailed page showcasing game information, t
 **Access it here:**
 https://mako-zone.vercel.app/
 
+**Files explanations:**
+🔍I took note of the following files and their purposes:
+
+https://miro.com/welcomeonboard/bE1kdjdFbHJ2NUNqMWQ4S3NPeE1PYlVNWU00ZEdMM0VoUnhjOFowc05OWmowVFNJcDAwVjZtVjNLTEZmbXBIeHwzNDU4NzY0NTg4MTQzNzgwOTgxfDI=?share_link_id=255903653393
+
 # Technology Used 🚀
 
 - TypeScript
